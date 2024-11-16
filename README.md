@@ -38,7 +38,7 @@ Install dependencies:
 
 Run your first example:
 
-    python examples/wave_interference/wave_interference.py
+    python exercises/wave_interference/wave_interference.py
 
 Contributions 🤝
 
