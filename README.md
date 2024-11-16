@@ -1,6 +1,7 @@
 OpenOceanModels 🌊
 
 OpenOceanModels is an open-access project aimed at making oceanographic modeling a valuable resource for teaching and learning physical oceanography. By combining open-source tools and a commitment to accessibility, this initiative provides practical exercises to simulate and visualize oceanographic processes like wave dynamics, currents, and more.
+
 Features 🚀
 
     Hands-on Exercises: Explore fundamental oceanographic concepts through practical coding exercises.
