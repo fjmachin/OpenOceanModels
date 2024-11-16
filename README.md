@@ -27,14 +27,14 @@ Note: It’s not necessary to install all three tools—select the one that best
 
 Getting Started 🛠️
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/your_username/OpenOceanModels.git
-cd OpenOceanModels
+    git clone https://github.com/your_username/OpenOceanModels.git
+    cd OpenOceanModels
 
 Install dependencies:
 
-pip install -r requirements.txt  # For Python users
+    pip install -r requirements.txt  # For Python users
 
 Run your first example:
 
