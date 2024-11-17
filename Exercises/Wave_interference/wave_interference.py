@@ -8,7 +8,7 @@ Created on Mon Nov 11 09:19:30 2024
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-#plt.rcParams['animation.ffmpeg_path'] = r'C:\Users\Usuario\miniforge3\pkgs\ffmpeg-7.0.1-gpl_h7cec250_100\Library\bin\ffmpeg.exe'
+#plt.rcParams['animation.ffmpeg_path'] = r'C:\PathToFfmpeg\ffmpeg-<version>\Library\bin\ffmpeg.exe'
 
 # Wave parameters
 len1 = 100.0      # Wavelength of wave 1
